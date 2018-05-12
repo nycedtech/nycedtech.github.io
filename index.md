@@ -25,5 +25,6 @@ Happy connecting and tech educating!
 Make it easier for me to help you!!
 We’re building the Craigslist of tech education!!!
 
-Opportunities View
+Here are some of the Organizations we are working with:
 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrlv1DThZ3LxK72o?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
