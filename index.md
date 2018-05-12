@@ -36,3 +36,6 @@ And here are open opportunities:
 And here is a calendar with all the opportunities:
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrFW59tCafjYsj6g?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+Here is a twitter stream
+<a class="twitter-timeline" data-lang="en" href="https://twitter.com/bethanymarz/lists/stackers?ref_src=twsrc%5Etfw">A Twitter List by bethanymarz</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
